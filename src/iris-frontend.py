@@ -4,7 +4,7 @@ import requests
 
 st.image('assets/header-iris.png', caption='Iris Flower')
 st.title('Iris Flower Classification')
-st.markdown('Created by: Farrel Arrizal')
+st.markdown('Created by: Farrel Arrizal | Batch Period: SEPT 2023')
 
 st.divider()
 
